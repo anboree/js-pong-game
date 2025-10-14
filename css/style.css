@@ -1,3 +1,7 @@
+body{
+    background-image: url(/assets/background-img.jpg);
+}
+
 .website-container-parent{
     display: table;
     height: 90vh;
@@ -20,6 +24,7 @@
 #scoreText{
     font-family: "Saira";
     font-size: 60px;
+    color: white;
 }
 
 #resetBtn{
